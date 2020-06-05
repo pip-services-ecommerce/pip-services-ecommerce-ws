@@ -1,9 +1,1 @@
-/pip-services-devenv
-
-/pip-services-creditcards-node
-/pip-clients-creditcards-node
-
-/pip-services-invoices-node
-/pip-clients-invoices-node
-
-/pip-facade-ecommerce-node
+/pip-*
